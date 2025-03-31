@@ -7,12 +7,20 @@
 
 #
 
-<p align="center">I'm Nikolas Ribeiro, a Full Stack Developer from São Paulo, Brazil, with a passion for building innovative and scalable web applications. I specialize in JavaScript, React, Node.js, and databases, crafting both front-end and back-end solutions.
+<p align="center">
+  I'm Nikolas Ribeiro, a Full Stack Developer from São Paulo, Brazil, with a passion for creating innovative and scalable web applications. I specialize in JavaScript, React, Node.js, and databases, delivering robust solutions for both front-end and back-end development.
 
-I love tackling complex challenges and collaborating with diverse teams to create impactful and high-performance systems. Let’s connect and bring your ideas to life together!.
-  
-#
-<br clear="both">
+  I thrive on solving complex problems and collaborating with diverse teams to build high-impact, high-performance systems. Let’s connect and bring your ideas to life!
+</p>
+<hr>
+<p align="center">
+  Sou Nikolas Ribeiro, um Desenvolvedor Full Stack de São Paulo, Brasil, com uma paixão por criar aplicações web inovadoras e escaláveis. Tenho especialização em JavaScript, React, Node.js e bancos de dados, desenvolvendo soluções robustas tanto para o front-end quanto para o back-end.
+
+  Adoro enfrentar desafios complexos e colaborar com equipes diversas para criar sistemas de alto impacto e alto desempenho. Vamos nos conectar e transformar suas ideias em realidade!
+</p>
+<hr>
+
+
 
 ###
 
